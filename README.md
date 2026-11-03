@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreaszahl
-- 👀 I’m interested in architecture
-- 🌱 I’m currently learning CIM
+- 👀 I’m interested in architecture, data, maps, governance, ontology, AI +++
+- 🌱 I’m currently learning GIS
 - 💞️ I’m looking to collaborate on information architecture
 - 📫 How to reach me: email!
 - ⚡ Fun fact: o_O 
